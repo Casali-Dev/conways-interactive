@@ -1,4 +1,4 @@
-#Conway's Game of Life Interactive
+# Conway's Game of Life Interactive
 
 ## Getting Started
 
